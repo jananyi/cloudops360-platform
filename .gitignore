@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.vscode/
+node_modules/

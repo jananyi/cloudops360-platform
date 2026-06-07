@@ -1,38 +1,15 @@
-\# CloudOps360
+# CloudOps360
 
+AI-Powered Cloud Governance, FinOps & DevOps Control Center.
 
+CloudOps360 is a production-style portfolio platform for Cloud, DevOps, SRE, and FinOps teams. It includes cloud cost analytics, anomaly detection, governance checks, deployment tracking, monitoring dashboards, developer portal workflows, and AI-powered cloud recommendations.
 
-Production-style Cloud + DevOps + FinOps engineering platform.
+## Tech Stack
 
-
-
-\## Tech Stack
-
-
-
-\- AWS
-
-\- Terraform
-
-\- Docker
-
-\- Kubernetes
-
-\- GitHub Actions
-
-\- Prometheus
-
-\- Grafana
-
-\- Helm
-
-\- Trivy
-
-
-
-\## Status
-
-
-
-Project initialization in progress.
-
+- Frontend: Next.js, Tailwind CSS, shadcn/ui
+- Backend: FastAPI
+- Database: PostgreSQL using Neon
+- Charts: Recharts
+- AI: Gemini API or OpenAI API
+- Hosting: Vercel + Render
+- CI/CD: GitHub Actions

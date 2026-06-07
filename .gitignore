@@ -1,8 +1,8 @@
-__pycache__/
-*.pyc
+node_modules
+.next
 .env
-terraform.tfstate
-terraform.tfstate.backup
-.terraform/
-.vscode/
-node_modules/
+.env.local
+__pycache__
+venv
+.pytest_cache
+.DS_Store
